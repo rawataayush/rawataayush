@@ -4,6 +4,7 @@ I'm an aspiring **Frontend Web Developer** & future **AI-powered Full Stack Deve
 I love building creative, responsive websites & learning new tech daily.
 
 ## 🚀 Projects
+- 🛎️ Restaurant Landing Page
 - 📱 Portfolio Website (Coming Soon)
 - 🛠️ More coming soon...
 
