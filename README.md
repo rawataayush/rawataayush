@@ -4,13 +4,11 @@ I'm an aspiring **Frontend Web Developer** & future **AI-powered Full Stack Deve
 I love building creative, responsive websites & learning new tech daily.
 
 ## 🚀 Projects
-- 🎬 Netflix Landing Page Clone (Responsive)
 - 📱 Portfolio Website (Coming Soon)
 - 🛠️ More coming soon...
 
 ## 💡 Currently Learning
 - HTML/CSS (Responsive Design, Flexbox, Grid)
-- JavaScript (DOM, Interactivity)
 - Git & GitHub
 - Web Development Fundamentals
 
