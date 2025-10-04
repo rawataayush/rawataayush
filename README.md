@@ -16,3 +16,4 @@ I love building creative, responsive websites & learning new tech daily.
 ## 🌐 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/rawataayush)
 [![X](https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white)](https://twitter.com/rawataayush_)
+[![Instagram](https://img.shields.io/badge/Instagram?logo=instagram)](https://instagram.com/rawatcodes)
