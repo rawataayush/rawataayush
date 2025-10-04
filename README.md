@@ -14,6 +14,6 @@ I love building creative, responsive websites & learning new tech daily.
 - Web Development Fundamentals
 
 ## 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/rawataayush)
-[![X](https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white)](https://twitter.com/rawataayush_)
-[![Instagram](https://img.shields.io/badge/Instagram?logo=instagram)](https://instagram.com/rawatcodes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rawataayush)
+[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/rawataayush_)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rawatcodes)
