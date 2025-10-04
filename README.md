@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Aayush Rawat
 
-I'm an aspiring **Frontend Web Developer** & future **AI-powered Full Stack Developer**.
+I'm an aspiring **AI-powered Full Stack Developer**.
 I love building creative, responsive websites & learning new tech daily.
 
 ## 🚀 Projects
