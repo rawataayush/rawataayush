@@ -22,6 +22,6 @@ I love learning new technologies and am currently exploring the world of AI.
 [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/)
 
 ### 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rawataayush)
-[![(Twitter)](https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/rawataayush_)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rawatcodes)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rawataayush)
+[<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white">](https://twitter.com/rawataayush_)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rawatcodes)
