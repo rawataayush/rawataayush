@@ -5,10 +5,10 @@ I love learning new technologies and am currently exploring the world of AI.
 
 ### 🚀 Projects
 
-* [Apple Landing Website Clone](https=//rawataayush.github.io/apple-landing-page) - [View Code](https=//github.com/rawataayush/apple-landing-page.git)
-* [Random Color Generator](https=//rawataayush.github.io/color-generator) - [View Code](https=//github.com/rawataayush/color-generator.git)
-* [Counter App](https=//rawataayush.github.io/counter-app) - [View Code](https=//github.com/rawataayush/counter-app.git)
-* [Fashion Studio Website Clone](https=//rawataayush.github.io/fashion-studio-clone) - [View Code](https=//github.com/rawataayush/fashion-studio-clone.git)
+* [Apple Landing Website Clone](https://rawataayush.github.io/apple-website-clone/) - [View Code](https://github.com/rawataayush/apple-website-clone.git)
+* [Random Color Generator](https://rawataayush.github.io/color-generator) - [View Code](https://github.com/rawataayush/color-generator.git)
+* [Counter App](https://rawataayush.github.io/counter-app) - [View Code](https://github.com/rawataayush/counter-app.git)
+* [Fashion Studio Website Clone](https://rawataayush.github.io/fashion-studio-clone) - [View Code](https://github.com/rawataayush/fashion-studio-clone.git)
 * Portfolio Website (Coming Soon)
 * More coming soon...
 
