@@ -9,6 +9,7 @@ I love learning new technologies and am currently exploring the world of AI.
 * [Random Color Generator](https://rawataayush.github.io/color-generator) - [View Code](https://github.com/rawataayush/color-generator.git)
 * [Counter App](https://rawataayush.github.io/counter-app) - [View Code](https://github.com/rawataayush/counter-app.git)
 * [Fashion Studio Website Clone](https://rawataayush.github.io/fashion-studio-clone) - [View Code](https://github.com/rawataayush/fashion-studio-clone.git)
+* [Advanced CSS Houdini Card](https://rawataayush.github.io/advanced-css-houdini-card) - [View Code](https://github.com/rawataayush/advanced-css-houdini-card.git)
 * Portfolio Website (Coming Soon)
 * More coming soon...
 
