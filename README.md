@@ -10,7 +10,7 @@ I love learning new technologies and am currently exploring the world of AI.
 * [Web Piano](https://rawataayush.github.io/web-piano/) - [View Code](https://github.com/rawataayush/web-piano.git)
 * [Instagram Like Animation](https://rawataayush.github.io/instagram-like-animation) - [View Code](https://github.com/rawataayush/instagram-like-animation.git)
 * [Random Color Generator](https://rawataayush.github.io/color-generator) - [View Code](https://github.com/rawataayush/color-generator.git)
-* [Download UI](https://rawataayush.github.io/download-ui/) - [View Code](https://github.com/rawataayush/download-ui.git)
+* [Download UI](https://rawataayush.github.io/download-UI/) - [View Code](https://github.com/rawataayush/download-ui.git)
 * [Counter App](https://rawataayush.github.io/counter-app) - [View Code](https://github.com/rawataayush/counter-app.git)
 * [Fashion Studio Website Clone](https://rawataayush.github.io/fashion-studio-clone) - [View Code](https://github.com/rawataayush/fashion-studio-clone.git)
 * Portfolio Website (Coming Soon)
