@@ -54,6 +54,11 @@ A high-end website clone focusing on complex layouts and responsive design.
 
 ---
 
+### 📈 Contribution Graph
+![My Contribution Graph](https://raw.githubusercontent.com/rawataayush/rawataayush/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 ### 🤝 Let's Connect!
 
   [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rawataayush)
