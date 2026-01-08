@@ -5,13 +5,15 @@ I love learning new technologies and am currently exploring the world of AI.
 
 ### 🚀 Projects
 
-* [Apple Landing Website Clone](https://rawataayush.github.io/apple-website-clone/) - [View Code](https://github.com/rawataayush/apple-website-clone.git)
+* [Advanced CSS Houdini Card](https://rawataayush.github.io/advanced-css-houdini-card) - [View Code](https://github.com/rawataayush/advanced-css-houdini-card.git)
+* [Hover Text Scramble](https://rawataayush.github.io/hover-text-scramble) - [View Code](https://github.com/rawataayush/hover-text-scramble.git)
+* [Web Piano](https://rawataayush.github.io/web-piano/) - [View Code](https://github.com/rawataayush/web-piano.git)
+* [Instagram Like Animation](https://rawataayush.github.io/instagram-like-animation) - [View Code](https://github.com/rawataayush/instagram-like-animation.git)
 * [Random Color Generator](https://rawataayush.github.io/color-generator) - [View Code](https://github.com/rawataayush/color-generator.git)
+* [Download UI](https://rawataayush.github.io/download-ui/) - [View Code](https://github.com/rawataayush/download-ui.git)
 * [Counter App](https://rawataayush.github.io/counter-app) - [View Code](https://github.com/rawataayush/counter-app.git)
 * [Fashion Studio Website Clone](https://rawataayush.github.io/fashion-studio-clone) - [View Code](https://github.com/rawataayush/fashion-studio-clone.git)
-* [Advanced CSS Houdini Card](https://rawataayush.github.io/advanced-css-houdini-card) - [View Code](https://github.com/rawataayush/advanced-css-houdini-card.git)
 * Portfolio Website (Coming Soon)
-* More coming soon...
 
 ### 💡 My Tech Stack
 
