@@ -1,8 +1,10 @@
 # Hi there, I'm Aayush Rawat 👋
 
-I am a **Web Developer** dedicated to building the web from the ground up. While many jump straight into frameworks, I am focused on mastering the core pillars of the modern web: **Semantic HTML, Advanced CSS/Sass, and Vanilla JavaScript.**
+I am a **Web Developer** focused on building strong foundations before scaling into complex frameworks. While many jump directly into libraries, I prioritize mastering the core pillars of the modern web: Semantic HTML, Advanced CSS, and Deep JavaScript fundamentals.
 
-I believe that a deep understanding of the DOM and browser APIs is the foundation of a great Software Engineer.
+I am currently expanding into React and component-based architecture, applying my JavaScript knowledge to build structured, scalable UI systems using Tailwind CSS.
+
+I believe that a deep understanding of the DOM, browser APIs, and core JavaScript mechanics is what separates a developer from a framework user.
 
 ---
 
@@ -14,6 +16,8 @@ I believe that a deep understanding of the DOM and browser APIs is the foundatio
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
 </p>
 
 **Tools & Environment**
@@ -25,11 +29,19 @@ I believe that a deep understanding of the DOM and browser APIs is the foundatio
 
 ---
 
-### 🧠 Current Learning: Advanced JavaScript
-*To move beyond basic scripting, I am currently studying:*
-* **Functional Concepts:** `Closures`, Scoping, and Hoisting.
-* **Asnchronous JS:** Promises, `Async/Await`, and Handling APIs flows.
-* **Object-Oriented Programming (OOP):** `Classes`, Prototypes, Inheritance, and Encapsulation.
+### 🧠 Current Learning: Advanced JavaScript & React
+
+To move beyond basic scripting and into structured frontend architecture, I am currently studying:
+
+**Core JavaScript Depth**
+- Functional Concepts: `Closures`, Scoping, Hoisting
+- Asynchronous JavaScript: `Promises`, `Async/Await`, API flow handling
+- Object-Oriented Programming: `Classes`, Prototypes, Inheritance, Encapsulation
+
+**Frontend Architecture**
+- React fundamentals: Components, Props, State, Re-rendering
+- Component composition and reusable UI patterns
+- Styling systems using Tailwind CSS
 
 ---
 
