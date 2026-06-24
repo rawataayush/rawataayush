@@ -1,10 +1,14 @@
 # Hi there, I'm Aayush Rawat 👋
 
-I am a **Web Developer** focused on building strong foundations before scaling into complex frameworks. While many jump directly into libraries, I prioritize mastering the core pillars of the modern web: Semantic HTML, Advanced CSS, and Deep JavaScript fundamentals.
+I am a **Web Developer** focused on building strong foundations in the modern web before scaling into complex frameworks and large applications. 
 
-I am currently expanding into React and component-based architecture, applying my JavaScript knowledge to build structured, scalable UI systems using Tailwind CSS.
+My main focus is on **Semantic HTML, Advanced CSS, JavaScript fundamentals, React, Vite, Axios, and React Router DOM**. I prefer understanding how things work under the hood, especially the DOM, browser APIs, state handling, and API integration, before moving deeper into frameworks and production-level UI systems.
 
-I believe that a deep understanding of the DOM, browser APIs, and core JavaScript mechanics is what separates a developer from a framework user.
+I am currently building and practicing projects that improve my skills in:
+- React component architecture
+- API handling with Axios
+- Routing and navigation with React Router DOM
+- Scalable UI development using Tailwind CSS
 
 ---
 
@@ -17,6 +21,9 @@ I believe that a deep understanding of the DOM, browser APIs, and core JavaScrip
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
 </p>
 
@@ -31,38 +38,41 @@ I believe that a deep understanding of the DOM, browser APIs, and core JavaScrip
 
 ### 🧠 Current Learning: Advanced JavaScript & React
 
-To move beyond basic scripting and into structured frontend architecture, I am currently studying:
+To grow beyond basic scripting and into structured frontend development, I am currently learning and practicing:
 
 **Core JavaScript Depth**
-- Functional Concepts: `Closures`, Scoping, Hoisting
-- Asynchronous JavaScript: `Promises`, `Async/Await`, API flow handling
-- Object-Oriented Programming: `Classes`, Prototypes, Inheritance, Encapsulation
+- Closures, Scoping, Hoisting
+- Promises, Async/Await, API flow handling
+- Classes, Prototypes, Inheritance, Encapsulation
 
 **Frontend Architecture**
 - React fundamentals: Components, Props, State, Re-rendering
+- React Router DOM for page navigation and route handling
+- Axios for API requests and data integration
+- Reusable UI patterns and component composition
 - Component composition and reusable UI patterns
-- Styling systems using Tailwind CSS
+- Tailwind CSS for styling systems
 
 ---
 
 ### 🚀 Featured Projects
-*Most of these are built with **Zero Frameworks**, focusing on clean code and logic.*
+*Selected projects focused on clean logic, UI quality, and practical frontend skills.*
 
-#### 🌟 Highlight: Fashion Studio Website
-A high-end website clone focusing on complex layouts and responsive design.
-**[Live Demo](https://rawataayush.github.io/fashion-studio-clone)** | **[View Code](https://github.com/rawataayush/fashion-studio-clone.git)**
+#### 🌟 Highlight: Student Management System
+A structured React project focused on managing student data with a clean interface and practical frontend logic.
+**[Live Demo](https://student-management-system-six-inky.vercel.app/)** | **[View Code](https://github.com/rawataayush/student-management-system.git)**
 
 | Project | Focus Area | Links |
 | :--- | :--- | :--- |
+| **👤 User Profile Cards** | Component-based UI and reusable card layouts | [Demo](https://user-profile-cards-two.vercel.app) / [View Code](https://github.com/rawataayush/user-profile-cards.git) |
 | **🎹 Web Piano** | Audio API & Keyboard Events | [Demo](https://rawataayush.github.io/web-piano/) / [View Code](https://github.com/rawataayush/web-piano.git) |
 | **🎨 Houdini Card** | Next-gen CSS | [Demo](https://rawataayush.github.io/advanced-css-houdini-card) / [View Code](https://github.com/rawataayush/advanced-css-houdini-card.git) |
 | **✨ Text Scramble** | String manipulation & JS Animation | [Demo](https://rawataayush.github.io/hover-text-scramble) / [View Code](https://github.com/rawataayush/hover-text-scramble.git) |
-| **📸 Insta-Like** | Event Listeners & UI Feedback | [Demo](https://rawataayush.github.io/instagram-like-animation) / [View Code](https://github.com/rawataayush/instagram-like-animation.git) |
 | **🌈 Random Color Generator** | Logic / Hex Math | [Demo](https://rawataayush.github.io/color-generator) / [View Code](https://github.com/rawataayush/color-generator.git)
 | **📥 Download UI** | UI/UX Transition | [Demo](https://rawataayush.github.io/download-UI/) / [View Code](https://github.com/rawataayush/download-ui.git)
 | **🔢 Counter App** | State Management in Vanilla JS | [Demo](https://rawataayush.github.io/counter-app) / [View Code](https://github.com/rawataayush/counter-app.git) |
 
-> **Note:** I am currently building my **Official Portfolio website** to showcase these projects in a more immersive environment. Stay tuned!
+> **Note:** I am currently building my **Official Portfolio website** to showcase these projects in a more immersive environment.
 
 ---
 
